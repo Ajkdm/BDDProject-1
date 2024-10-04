@@ -1,0 +1,6 @@
+13:54:03.593[main] INFO  stepDefinitions.LoginStepDefs - Lanching chrome browser
+13:54:05.385[main] INFO  stepDefinitions.LoginStepDefs - Lanching url
+13:54:09.534[main] INFO  stepDefinitions.LoginStepDefs - Lanching chrome browser
+13:54:10.463[main] INFO  stepDefinitions.LoginStepDefs - Lanching url
+13:54:14.495[main] INFO  stepDefinitions.LoginStepDefs - Lanching chrome browser
+13:54:15.434[main] INFO  stepDefinitions.LoginStepDefs - Lanching url
