@@ -4,3 +4,8 @@
 13:54:10.463[main] INFO  stepDefinitions.LoginStepDefs - Lanching url
 13:54:14.495[main] INFO  stepDefinitions.LoginStepDefs - Lanching chrome browser
 13:54:15.434[main] INFO  stepDefinitions.LoginStepDefs - Lanching url
+19:23:23.716[main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Ajay\Selenium\SelProjects\NopCommerceBDD\XML files\Login.xml"
+19:23:23.732[main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Ajay\Selenium\SelProjects\NopCommerceBDD\XML files\Login.xml] otherwise TestNG may fail or not work as expected.
+19:23:23.966[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Ajay\Selenium\SelProjects\NopCommerceBDD\XML files\Login.xml
+
